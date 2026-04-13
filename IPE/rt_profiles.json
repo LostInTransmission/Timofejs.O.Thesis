@@ -1,0 +1,20 @@
+{
+    "filter": {
+        "Default": {
+            "TRIM_START": 10.0,
+            "TRIM_END": 10.0,
+            "X_MIN": 2.0,
+            "X_MAX": 8.0,
+            "PERC_MIN": 5,
+            "DELTA_H": 1.5,
+            "X_TOL": 1.2,
+            "MIN_PTS": 4,
+            "MIN_WIDTH": 0.2,
+            "MIN_CURV": 0.2,
+            "APEX_TOL": 0.5,
+            "SOR_K": 7,
+            "SOR_MULT": 0.3,
+            "PRINT_SPEED": 10.0
+        }
+    }
+}
