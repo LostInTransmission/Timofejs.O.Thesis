@@ -11,4 +11,4 @@ IPE (In-Process Estimator): Scripts for real-time operation. Includes the PID co
 
 PPE (Post-Process Estimator): Scripts for offline analysis. Includes a graphical user interface (GUI), tools for visualizing 3D layer profiles, applying filters (DBSCAN, SOR, Median), and calculating quality metrics.
 
-Additionaly, the .zip file contains full data cloud of points gained from the experimental print, described in the thesis document.
+Additionally, the .zip file contains full data cloud of points gained from the experimental print, described in the thesis document.
